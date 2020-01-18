@@ -1,0 +1,2 @@
+https://mirrors.ustc.edu.cn/archlinuxarm/
+http://mirrors.ustc.edu.cn/ubuntu-ports/
