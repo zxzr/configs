@@ -12,3 +12,4 @@ def abc(i_a, i_b):
 
 abc(1, 2)
 abc("1", "2")
+abc(4, 5)
