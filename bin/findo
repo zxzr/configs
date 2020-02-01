@@ -1,0 +1,8 @@
+#!/bin/bash
+#只在第一级目录（当前目录）查找
+#find . -maxdepth 1  -type f ! -name ".*" -exec cp "{}" ./text/ \;
+#echo $0
+find . -maxdepth 1  -type f ! -name ".*" ! -name "findo" -exec mv -f "{}" ./text/ \;
+#find . -maxdepth 1  -type f ! -name ".*" | xargs cp "" ./text/
+#find . -name "file*" -print 
+#find . -maxdepth 1  ! -type f 

@@ -1,0 +1,3 @@
+#!/bin/bash 
+su -c 'mount -o loop /home/badegg/Downloads/fedora_iso/Fedora-12-i386-DVD.iso  /home/badegg/Downloads/fedora_iso'
+
