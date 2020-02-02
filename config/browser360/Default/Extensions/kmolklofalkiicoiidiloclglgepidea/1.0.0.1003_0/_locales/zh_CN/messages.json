@@ -1,0 +1,11 @@
+{
+   "default_title": {
+      "message": "夜间模式\r\nAlt + F5 打开/关闭 \r\nAlt + F6 恢复默认暗度\r\nAlt + ↑  变亮\r\nAlt + ↓  变暗"
+   },
+   "description": {
+      "message": "保护视力，预防近视，调整亮度，夜间模式"
+   },
+   "name": {
+      "message": "夜间模式"
+   }
+}

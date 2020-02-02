@@ -1,0 +1,65 @@
+/*新版音乐下载器布局*/
+
+.ufan-play {
+    position: fixed;
+    z-index: 999999;
+    left: 50px;
+    top: 20%;
+    border-radius: 50%;
+    background-color: #27AE60;
+    width: 60px;
+    height: 60px;
+    opacity: 0.4;
+    overflow: hidden;
+    display: none;
+}
+
+.ufan-play .tv-button {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.ufan-play div.download-list {
+    position: absolute;
+    padding-left: 80px;
+    left: -20;
+    top: -90px;
+    opacity: 0;
+    width: 60px;
+    height: 240px;
+    display: table;
+}
+
+.ufan-play div.download-list div {
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.ufan-play div.download-list ul {
+    list-style: none;
+    position: relative;
+    left: 0;
+    width: 60px;
+    height: auto;
+    top: 0;
+    bottom: 0;
+}
+
+.ufan-play div.download-list ul li {
+    width: 40px;
+    height: 40px;
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    line-height: 40px;
+    background-color: rgb(39, 174, 96);
+    border-radius: 50%;
+    color: #fff;
+    margin: 10px;
+    cursor: pointer;
+    margin-left: -60px;
+}

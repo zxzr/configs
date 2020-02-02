@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>广告拦截 - 设置页</title><link rel="stylesheet" href="lib/reset.css"><link rel="stylesheet" href="css/option.css"></head><body><div class="wrapper"><div class="head"><div class="content"><span class="title"><i class="ico ico-title"></i>广告拦截设置</span></div></div><div class="content"><div class="level"><div class="title">拦截强度</div><div class="level-list"></div></div><div class="badge"><div class="title">显示数量</div><span class="inline-block chk-badge"><i class="ico ico-chk"></i>在图标上显示数量</span></div><div class="white-container"><div class="title">白名单</div><div class="sub">如果您不希望过滤某些网站，可以在下方输入网站域名或URL，然后点击“添加过滤规则”</div><div class="search"><input class="inline-block ipt-rule ipt-rule-white"> <input type="button" class="inline-block btn-add btn-add-white" value="添加过滤规则"></div><ul class="list list-white"></ul></div><div class="white-container black-container"><div class="title">智能强效过滤</div><div class="sub">对于一些拦截不了的网站，可以将其添加到列表中，将尝试智能强效过滤。</div><div class="search"><input class="inline-block ipt-rule ipt-rule-black"> <input type="button" class="inline-block btn-add btn-add-black" value="添加过滤规则"></div><ul class="list list-black"></ul></div></div></div><div class="alert-container"><div class="alert-mask"></div><div class="alert-view"><a class="inline-block alert-btn-close"></a><div class="alert-bd">广告拦截功能已关闭，您可以在扩展—管理扩展中找到本插件。</div><div class="alert-ft"><a href="javascript:void(0);" class="btn alert-btn-confirm">确定</a></div></div></div><script type="text/html" id="rule_tpl">{{@list}}
+  <li class="rule-item">
+    <span class="inline-block ellipsis rule">{{%_val}}</span>
+    <input class="btn-del" type="button" data-rule="{{%_val}}">
+  </li>
+  {{/@list}}</script><script type="text/html" id="level_tpl">{{@list}}
+  <div class="level-item radio-view">
+    <label class="radio-label {{%_val.status}}" value="{{%_val.value}}" for="radio_level"><i
+      class="ico ico-radio"></i>{{%_val.name}}</label>
+    <input class="radio-input" type="radio" name="radio_level" id="radio_level" value="{{%_val.value}}">
+    <span class="inline-block description {{%_val.className}}">{{%_val.des}}</span>
+  </div>
+  {{/@list}}</script><script src="lib/t.min.js"></script><script src="js/option.js"></script></body></html>

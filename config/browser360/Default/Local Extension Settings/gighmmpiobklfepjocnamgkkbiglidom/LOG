@@ -1,0 +1,40 @@
+2020/02/01-23:43:27.585 7095 Reusing MANIFEST /home/zxzr/.config/browser360/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/02/01-23:43:27.585 7095 Recovering log #804
+2020/02/01-23:43:27.697 7095 Reusing old log /home/zxzr/.config/browser360/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000804.log 
+2020/02/01-23:44:26.454 7472 Level-0 table #808: started
+2020/02/01-23:44:26.666 7472 Level-0 table #808: 5177951 bytes OK
+2020/02/01-23:44:26.700 7472 Delete type=0 #804
+2020/02/01-23:44:26.703 7472 Compacting 4@0 + 2@1 files
+2020/02/01-23:44:26.981 7472 Generated table #809@0: 1 keys, 5177857 bytes
+2020/02/01-23:44:27.017 7472 Generated table #810@0: 4 keys, 395 bytes
+2020/02/01-23:44:27.017 7472 Compacted 4@0 + 2@1 files => 5178252 bytes
+2020/02/01-23:44:27.065 7472 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/01-23:44:27.065 7472 Delete type=2 #801
+2020/02/01-23:44:27.066 7472 Delete type=2 #799
+2020/02/01-23:44:27.066 7472 Delete type=2 #803
+2020/02/01-23:44:27.067 7472 Delete type=2 #805
+2020/02/01-23:44:27.067 7472 Delete type=2 #798
+2020/02/01-23:44:27.068 7472 Delete type=2 #808
+2020/02/01-23:44:28.625 7472 Level-0 table #812: started
+2020/02/01-23:44:28.853 7472 Level-0 table #812: 5178098 bytes OK
+2020/02/01-23:44:28.887 7472 Delete type=0 #807
+2020/02/01-23:44:30.959 7472 Level-0 table #814: started
+2020/02/01-23:44:31.445 7472 Level-0 table #814: 5178094 bytes OK
+2020/02/01-23:44:31.492 7472 Delete type=0 #811
+2020/02/01-23:44:32.451 7472 Level-0 table #816: started
+2020/02/01-23:44:32.676 7472 Level-0 table #816: 5177854 bytes OK
+2020/02/01-23:44:32.723 7472 Delete type=0 #813
+2020/02/01-23:46:44.287 7472 Level-0 table #818: started
+2020/02/01-23:46:44.707 7472 Level-0 table #818: 5177849 bytes OK
+2020/02/01-23:46:44.772 7472 Delete type=0 #815
+2020/02/01-23:46:44.774 7472 Compacting 4@0 + 2@1 files
+2020/02/01-23:46:45.120 7472 Generated table #819@0: 1 keys, 5177849 bytes
+2020/02/01-23:46:45.201 7472 Generated table #820@0: 4 keys, 395 bytes
+2020/02/01-23:46:45.201 7472 Compacted 4@0 + 2@1 files => 5178244 bytes
+2020/02/01-23:46:45.411 7472 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/01-23:46:45.411 7472 Delete type=2 #818
+2020/02/01-23:46:45.412 7472 Delete type=2 #814
+2020/02/01-23:46:45.412 7472 Delete type=2 #816
+2020/02/01-23:46:45.413 7472 Delete type=2 #810
+2020/02/01-23:46:45.413 7472 Delete type=2 #809
+2020/02/01-23:46:45.414 7472 Delete type=2 #812

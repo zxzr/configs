@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "bg.html"
+   },
+   "browser_action": {
+      "default_icon": "img/19.png",
+      "default_title": "__MSG_default_title__"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "img/128.png",
+      "16": "img/19.png",
+      "48": "img/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQClQI2R3In7O928IFvuUh7MoIKSW8AGHm7eIaLqb7h7/2vzOfX6SyofSswsKMAvrjJ9aM5cdo8AgP5mONPd3UXGR29fJc74DR09+HhzNy2p6E/Ym00HGGczC21NxKCDfnQ3Akd0LcZKbl7QGEyZlwdy6pGOtxujL4gM3VfxST1d8wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18.0.0.0",
+   "name": "__MSG_name__",
+   "permissions": [ "tabs", "http://*/", "https://*/" ],
+   "update_url": "http://upext.chrome.360.cn/intf.php?method=ExtUpdate.query",
+   "version": "1.0.0.1003"
+}
