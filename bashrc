@@ -93,7 +93,7 @@ alias sl='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias w3mb='w3m -B'
-alias reds='redshift -b 1.0:0.7 -v -o -O 4500'
+alias reds='redshift -b 0.7:0.3 -v -o -O 3800'
 # If you need to change this option after creating a virtual environment
 # you can add (to turn off) or remove (to turn on) the file no-global-site-packages.txt
 # from lib/python3.7/ or equivalent in the environments directory.
@@ -127,4 +127,5 @@ fi
 export NODE_PATH=$NODE_PATH:/usr/local/lib/node_modules/
 export PATH=$PATH:$HOME/.SpaceVim/bin
 export PATH=$PATH:$HOME/configs/bin
+export NVIM_LISTEN_ADDRESS=/tmp/spacevim_nvim_server
 source ~/py3/bin/activate
