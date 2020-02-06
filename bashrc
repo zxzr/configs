@@ -93,12 +93,13 @@ alias sl='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias w3mb='w3m -B'
-alias reds='redshift -b 1.0:0.7 -v -o -O 4500'
+alias reds='redshift -b 0.7:0.5 -v -o -O 4500'
 # If you need to change this option after creating a virtual environment
 # you can add (to turn off) or remove (to turn on) the file no-global-site-packages.txt
 # from lib/python3.7/ or equivalent in the environments directory.
 alias virtualenv-py3='virtualenv -p /usr/bin/python3  --no-site-packages'
 alias virtualenv-py2='virtualenv -p /usr/bin/python2  --no-site-packages'
+alias tolab0='ssh -p 5678 lab0@127.0.0.1'
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
