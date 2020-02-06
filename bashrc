@@ -127,4 +127,5 @@ fi
 export NODE_PATH=$NODE_PATH:/usr/local/lib/node_modules/
 export PATH=$PATH:$HOME/.SpaceVim/bin
 export PATH=$PATH:$HOME/configs/bin
+export NVIM_LISTEN_ADDRESS=/tmp/spacevim_nvim_server
 source ~/py3/bin/activate
