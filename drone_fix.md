@@ -7,10 +7,15 @@
 ### 量具
 ## 电工类常用工具
 ### 检测工具
+[万用表使用方法](https://www.bilibili.com/video/av11897308?from=search&seid=68730713220473447)
 ### 焊接工具
+[烙铁使用方法](https://www.bilibili.com/video/av78018875?p=1)
 ## 专用工具
 ## 常用配件
 # 多旋翼无人机的组装与调试
+1. [多轴无人机](https://www.bilibili.com/video/av6309857/?p=2)
+1. [原创穿越机教程](https://space.bilibili.com/14283647/channel/detail?cid=5604)
+1. [Pixhawk](https://www.bilibili.com/video/av47950231/?spm_id_from=333.788.videocard.2)
 ## 组装前的准备工作
 ### 多旋翼无人机构造概览
 ### 零部件清单

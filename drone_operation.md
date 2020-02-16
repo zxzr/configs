@@ -1,6 +1,8 @@
 [TOC]
 # 认识无人机
 ## 认识多旋翼无人机
+- [多旋翼无人机驾驶员基础](https://www.bilibili.com/video/av52293603/?spm_id_from=333.788.videocard.6)
+- [PhotoScan中文破解版 1.4.5 32/64位](https://www.newasp.net/soft/386259.html)
 ### 多旋翼无人机的定义
 ### 多旋翼无人机的分类
 ### 多旋翼无人机的应用领域
