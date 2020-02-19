@@ -69,6 +69,11 @@ name = "git"
 [[layers]]
 name = "sudo"
 
+[[layers]]
+  name = "lang#javascript"
+  auto_fix = true
+  enable_flow_syntax = true
+
 [[custom_plugins]]
     name = "tpope/vim-fugitive"
     merged = false

@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""课时模块。"""
+
 from isoweek import Week
 
 
-class Baselesson(object):
+class Baselesson():
     "week day year"
 
     def __init__(self, week=1, day=7, year=2020):

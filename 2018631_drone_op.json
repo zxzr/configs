@@ -1,0 +1,22 @@
+{
+  "name":"无人机操作技术",
+  "year": 2020,
+  "firstweek": 8,
+  "1": {
+    "day": 3,
+    "week": 1,
+    "content": {
+      "proj": 1,
+      "a": 1
+    }
+  },
+  "2": {
+    "day": 4,
+    "week": 1,
+    "content": {
+      "proj": 1,
+      "a": 1,
+      "b": 2
+    }
+  }
+}

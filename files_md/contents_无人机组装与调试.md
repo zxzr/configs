@@ -7,26 +7,26 @@
 ### 1.2.1. [电烙铁使用方法](https://www.bilibili.com/video/av78018875?p=1)
 ### 1.2.2. 任务：电烙铁选型
 # 2. 无人机结构与功能
+[无人机结构综述](https://space.bilibili.com/299022824)
 ## 2.1. 机械结构的功能与选用
 ## 2.2. 电子零部件的功能与选用
-[无人机结构综述](https://space.bilibili.com/299022824)
 ## 2.3. 任务：简述无人机部件功能
-# 3. 无人机的组装与调试
+# 3. 组装无人机
 ## 3.1. 多旋翼
-### 3.1.1. s500系列
-#### 3.1.1.1. [组装s500系列无人机](https://www.bilibili.com/video/av6309857/?p=2)
-#### 3.1.1.2. 任务：s500系列无人机物料清单
+### 3.1.1. s500型
+#### 3.1.1.1. [组装s500型无人机](https://www.bilibili.com/video/av6309857/?p=2)
+#### 3.1.1.2. 任务：s500型无人机物料清单
 ### 3.1.2. 穿越机
 #### 3.1.2.1. [组装穿越机](https://space.bilibili.com/14283647/channel/detail?cid=5604)
 #### 3.1.2.2. 任务：穿越机物料清单
 ### 3.1.3. Pixhawk
-#### 3.1.3.1. [组装Pixhawk系列无人机](https://www.bilibili.com/video/av47950231/?spm_id_from=333.788.videocard.2)
-#### 3.1.3.2. 任务：Pixhawk系列无人机物料清单
+#### 3.1.3.1. [组装Pixhawk型无人机](https://www.bilibili.com/video/av47950231/?spm_id_from=333.788.videocard.2)
+#### 3.1.3.2. 任务：Pixhawk型无人机物料清单
 ## 3.2. 固定翼
-### 3.2.1. X-UAV天空冲浪者系列
-#### 3.2.1.1. [组装X-UAV天空冲浪者系列无人机](https://www.bilibili.com/video/av68303159/?spm_id_from=333.788.videocard.0)
+### 3.2.1. X-UAV天空冲浪者型
+#### 3.2.1.1. [组装X-UAV天空冲浪者型无人机](https://www.bilibili.com/video/av68303159/?spm_id_from=333.788.videocard.0)
 #### 3.2.1.2. 任务：X-UAV天空冲浪者无人机物料清单
-### 3.2.2. 天捷力系列
+### 3.2.2. 天捷力型
 #### 3.2.2.1. [组装天捷力X-UAV mini Talon型无人机](https://www.bilibili.com/video/av45142978?from=search&seid=16617264907195853651)
 #### 3.2.2.2. [产品配件](https://item.taobao.com/item.htm?spm=a230r.1.14.4.5a2d73f8eqT6Fo&id=537491498632&ns=1&abbucket=14#detail)
 #### 3.2.2.3. 任务：天捷力无人机物料清单
