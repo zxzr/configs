@@ -37,24 +37,20 @@ DRONE_OP = {
         "title": "AOPA无人机培训课程",
         "url": "https://ke.qq.com/course/324684"
     }],
-    "1": {
-        "day": 3,
+    "schedule": {
         "week": 1,
+        "day": 3,
         "content": {
-            "proj": "多旋翼无人机驾驶员理论基础",
-            "chapters": ["多旋翼无人机的定义与分类", "多旋翼无人机的特点和系统组成"],
+            "proj": "",
+            "chapters": [],
         }
     },
     "2": {
-        "day": 4,
         "week": 1,
+        "day": 4,
         "content": {
-            "proj": "多旋翼无人机驾驶员理论基础",
-            "chapters": ["多旋翼无人机的定义与分类", "多旋翼无人机的特点和系统组成"],
-            "ref": {
-                "title": "多旋翼无人机驾驶员基础",
-                "url": "https://www.bilibili.com/video/av52293603?p=2"
-            }
+            "proj": "",
+            "chapters": [],
         }
     },
 }
