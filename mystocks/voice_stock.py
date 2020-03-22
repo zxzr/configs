@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """stock earning warning system."""
-import sys
 import os
+import sys
 import time
 import pandas as pd
 import tushare as ts
@@ -10,12 +10,13 @@ from playsound import playsound
 #  import warnings
 #  warnings.filterwarnings("ignore")
 sys.path.append("/usr/lib/python3/dist-packages")
-WAVFILE = os.path.dirname(__file__) + "/cembalo-6.wav"
-LMTFILE = os.path.dirname(__file__) + "/stocks_limits.json"
-
+THISDIR = os.path.dirname(os.path.realpath(__file__))
+WAVFILE = THISDIR + "/cembalo-6.wav"
+LMTFILE = THISDIR + "/stocks_limits.json"
 while True:
     STOCKLMT = pd.read_json(LMTFILE)
-    RTQU = ts.get_realtime_quotes(['300171', '601118', '000652', '000725'])
+    CODELIST = [str(cd).zfill(6) for cd in STOCKLMT["code"]]
+    RTQU = ts.get_realtime_quotes(CODELIST)
     print(
         pd.concat(
             [RTQU[['code', 'name', 'pre_close', 'price', 'time']], STOCKLMT],

@@ -2,10 +2,11 @@
 ## 1.1. 认识多旋翼无人机
 - [多旋翼无人机驾驶员基础](https://www.bilibili.com/video/av52293603/?spm_id_from=333.788.videocard.6)
 - [PhotoScan中文破解版 1.4.5 32/64位](https://www.newasp.net/soft/386259.html)
-### 1.1.1. 多旋翼无人机的定义
-### 1.1.2. 多旋翼无人机的分类
-### 1.1.3. 多旋翼无人机的应用领域
-### 1.1.4. 多旋翼无人机的特点和系统组成
+- [大疆无人机培训 精灵4教学 新手开箱入门](https://ke.qq.com/webcourse/index.html#cid=462256&term_id=100553230&taid=4103261431205296)### 1.1.1. 多旋翼无人机的定义
+- [PSG 3D 无人机航测与建模视频教程](https://ke.qq.com/webcourse/index.html#cid=427885&term_id=100510829&taid=3695376977004397)《PSG 3D 无人机航测与建模视频教程》
+- [无人机理论](https://ke.qq.com/webcourse/index.html#cid=424063&term_id=100506147&taid=3560261600835711&vid=5285890791160169724)### 1.1.2. 多旋翼无人机的分类
+- [无人机相关课程](https://ke.qq.com/course/list/%E6%97%A0%E4%BA%BA%E6%9C%BA?price_min=0&price_max=0)### 1.1.3. 多旋翼无人机的应用领域
+- [无人机内业航测解决方案—51GIS](https://ke.qq.com/course/459240?taid=4719374489813480)### 1.1.4. 多旋翼无人机的特点和系统组成
 ### 1.1.5. 多旋翼无人机的动力系统
 ## 1.2. 认识无人直升机
 ### 1.2.1. 无人直升机的概念

@@ -1,8 +1,7 @@
 function! myspacevim#before() abort
-
     augroup fmt
       autocmd!
-      autocmd BufWritePre *.py undojoin | Neoformat
+      autocmd BufWritePre * undojoin | Neoformat
     augroup END
     "
     " autocmd BufEnter * lcd %:p:h
@@ -10,6 +9,7 @@ function! myspacevim#before() abort
     "
     command W3M execute "edit term://w3m -B"
     set ic
+    " map <c-w> :Neoformat<CR>
 endfunction
 
 function! myspacevim#after() abort

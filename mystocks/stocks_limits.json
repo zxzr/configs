@@ -1,17 +1,26 @@
 [{
+  "code":"300171",
   "name": "东富龙",
-  "low_lmt": 8.0,
-  "high_lmt": 8.7
+  "low_lmt": 8.71,
+  "high_lmt": 9.09
 }, {
+  "code":"002950",
+  "name": "奥美医疗",
+  "low_lmt":42.00,
+  "high_lmt":51.00
+}, {
+  "code":"601118",
   "name": "海南橡胶",
-  "low_lmt": 4.0,
-  "high_lmt": 4.6
+  "low_lmt": 4.20,
+  "high_lmt": 5.09
 }, {
+  "code":"000652",
   "name": "泰达股份",
   "low_lmt": 10.0,
-  "high_lmt": 11.0
+  "high_lmt": 15.0
 }, {
+  "code":"000725",
   "name": "京东方Ａ",
-  "low_lmt": 4.7,
-  "high_lmt": 5.1
+  "low_lmt": 4.5,
+  "high_lmt": 5.7
 }]
